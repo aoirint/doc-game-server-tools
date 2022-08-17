@@ -11,7 +11,7 @@ docker run --rm --network host aoirint/rcon:20220806.1 rcon -H 127.0.0.1 -p 2557
 docker run --rm --network host aoirint/rcon:20220806.1 rcon -H 127.0.0.1 -p 27020 -P "${ADMIN_PASSWORD}" --minecraft ListPlayers
 ```
 
-## Minecraft (py-mine/mmcstatus)
+## Minecraft (py-mine/mcstatus)
 
 [GitHub](https://github.com/aoirint/mcstatus-docker) [Docker Hub](https://hub.docker.com/r/aoirint/mcstatus) [Source](https://github.com/py-mine/mcstatus)
 
