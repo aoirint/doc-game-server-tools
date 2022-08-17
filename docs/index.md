@@ -1,4 +1,4 @@
-# ゲームサーバ関連ツールドキュメント
+# doc-game-server-tools
 
 ## RCON (n0la/rcon)
 
