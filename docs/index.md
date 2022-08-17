@@ -1,6 +1,6 @@
 # doc-game-server-tools
 
-## RCON
+## RCON (n0la/rcon)
 
 [GitHub](https://github.com/aoirint/rcon-docker) [Docker Hub](https://hub.docker.com/r/aoirint/rcon) [Source](https://github.com/n0la/rcon)
 
@@ -11,7 +11,7 @@ docker run --rm --network host aoirint/rcon:20220806.1 rcon -H 127.0.0.1 -p 2702
 docker run --rm --network host aoirint/rcon:20220806.1 rcon -H 127.0.0.1 -p 27020 -P "${ADMIN_PASSWORD}" --minecraft ListPlayers
 ```
 
-## Minecraft (mcstatus)
+## Minecraft (py-mine/mmcstatus)
 
 [GitHub](https://github.com/aoirint/mcstatus-docker) [Docker Hub](https://hub.docker.com/r/aoirint/mcstatus) [Source](https://github.com/py-mine/mcstatus)
 
