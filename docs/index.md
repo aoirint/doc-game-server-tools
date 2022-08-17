@@ -1,5 +1,7 @@
 # doc-game-server-tools
 
+ゲームサーバ関連ツールドキュメント
+
 ## RCON (n0la/rcon)
 
 [GitHub](https://github.com/aoirint/rcon-docker) [Docker Hub](https://hub.docker.com/r/aoirint/rcon) [Source](https://github.com/n0la/rcon)
